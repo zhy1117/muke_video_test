@@ -9,12 +9,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/video/app/client/urls.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="22">
-              <caret line="1" lean-forward="true" selection-end-line="6" selection-end-column="1" />
+              <caret line="1" selection-end-line="6" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -28,7 +28,7 @@
         <entry file="file://$PROJECT_DIR$/video/config/urls.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="264">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
               <folding>
                 <element signature="e#15#47#0" expanded="true" />
               </folding>
@@ -41,9 +41,18 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/video/static/dashboard/js/bootstrap.min.js">
           <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/add_test.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -54,6 +63,9 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -66,10 +78,11 @@
         <option value="$PROJECT_DIR$/video/static/dashboard/js/jquery1.12.4.min.js" />
         <option value="$PROJECT_DIR$/video/app/libs/base_render.py" />
         <option value="$PROJECT_DIR$/video/config/asgi.py" />
+        <option value="$PROJECT_DIR$/add_test.txt" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-23" />
     <option name="y" value="15" />
     <option name="width" value="767" />
@@ -80,28 +93,29 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="lession8" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lession8" type="462c0819:PsiDirectoryNode" />
+              <item name="muke_video_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="muke_video_test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="lession8" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lession8" type="462c0819:PsiDirectoryNode" />
+              <item name="muke_video_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="muke_video_test" type="462c0819:PsiDirectoryNode" />
               <item name="video" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../lession6" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -134,7 +148,7 @@
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info id="DB Browser" order="1" />
-      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.24962178" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.25718608" />
       <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Terminal" order="1" weight="0.30441898" />
@@ -179,27 +193,11 @@
     </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/video/dashboard/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="6" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/video/dashboard/urls.py" />
     <entry file="file://$PROJECT_DIR$/video/config/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-442">
           <caret line="77" column="16" lean-forward="true" selection-start-line="77" selection-start-column="16" selection-end-line="77" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/video/app/views.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/video/app/client/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" lean-forward="true" selection-end-line="6" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -209,19 +207,6 @@
           <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/video/config/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="e#15#47#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/video/static/dashboard/css/bootstrap.min.css">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/video/config/asgi.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -247,8 +232,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/video/app/client/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/video/app/views.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/video/config/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#15#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/video/static/dashboard/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/video/static/dashboard/js/bootstrap.min.js">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/add_test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
